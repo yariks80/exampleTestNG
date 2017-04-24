@@ -1,0 +1,6 @@
+.gradle/
+.idea
+build/
+## File-based project format:
+src/main/
+src/test/java/
