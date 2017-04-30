@@ -14,7 +14,6 @@ import java.util.concurrent.TimeUnit;
 
 public class MyDriverFactory {
     public static WebDriver getDriver() {
-        String property = System.getProperty("driver");
         WebDriver driver = null;
         String nameDriver = System.getProperty("driver");
         if (nameDriver != null) {

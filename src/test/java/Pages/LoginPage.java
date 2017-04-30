@@ -22,16 +22,20 @@ public class LoginPage extends BasePage {
 	private WebElement authButton;
 
 
-	public LoginPage(WebDriver driver) {
-		super(driver);
+	protected void setName_(String name) {
+		name_.sendKeys(name);
+
+
 	}
 
-	public AfterLoginPage login(String name, String password) throws InterruptedException {
-		name_.sendKeys(name);
+	protected void setPassword_(String password) {
 		password_.sendKeys(password);
+
+	}
+	protected void authButtonClick_() throws InterruptedException {
 		authButton.submit();
 		Thread.sleep(7000);
-		return new AfterLoginPage(driver);
 	}
+
 
 }

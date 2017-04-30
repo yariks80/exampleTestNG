@@ -15,18 +15,16 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="Gradle: org.testng:testng:6.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.slf4j:slf4j-api:1.7.10" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: commons-beanutils:commons-beanutils-core:1.8.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.slf4j:slf4j-log4j12:1.7.10" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: ru.yandex.qatools.properties:properties-loader:1.5" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.9.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: ru.yandex.qatools.allure:allure-model:1.4.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.apache.tika:tika-core:1.7" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: ru.yandex.qatools.allure:allure-java-annotations:1.4.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.aspectj:aspectjrt:1.8.3" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: ru.yandex.qatools.allure:allure-java-adaptor-api:1.4.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: ru.yandex.qatools.allure:allure-java-aspects:1.4.11" level="project" />
-    <orderEntry type="library" scope="TEST" name="Gradle: ru.yandex.qatools.allure:allure-testng-adaptor:1.4.11" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.12" level="project" />
+    <orderEntry type="library" name="Gradle: ru.qatools.commons:properties:2.0.RC5" level="project" />
+    <orderEntry type="library" name="Gradle: org.jvnet.jaxb2_commons:jaxb2-basics-runtime:0.9.3" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-model:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.tika:tika-core:1.7" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-annotations:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: org.aspectj:aspectjrt:1.8.3" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-adaptor-api:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-java-aspects:1.5.2" level="project" />
+    <orderEntry type="library" name="Gradle: ru.yandex.qatools.allure:allure-testng-adaptor:1.5.2" level="project" />
     <orderEntry type="library" name="Gradle: net.java.dev.jna:jna:4.1.0" level="project" />
     <orderEntry type="library" name="Gradle: net.java.dev.jna:jna-platform:4.1.0" level="project" />
     <orderEntry type="library" name="Gradle: com.google.guava:guava:21.0" level="project" />
